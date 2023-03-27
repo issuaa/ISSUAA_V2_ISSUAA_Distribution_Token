@@ -1,0 +1,6 @@
+artifacts-zk
+cache-zk
+deploy_mnemonic.key
+package-lock.json
+build
+node_modules
